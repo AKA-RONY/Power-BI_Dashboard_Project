@@ -15,4 +15,6 @@ Created an interactive power BI dashboard for Madhav Store (E-commerce), and ana
 * Owner of Madhav Store wants us to  analyze their online sales data across India and create an interactive dashboard using power BI. That will help them to grow their business in future.
 
 # Dataset:-
-* Orders.xl
+* Orders.csv
+* Order Details.csv
+* 
