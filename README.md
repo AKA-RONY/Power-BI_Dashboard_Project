@@ -5,3 +5,8 @@ Created an interactive power BI dashboard for Madhav Store (E-commerce), and ana
 
 # Project Key points:-
 * Data collection
+* Data cleaning & wrangling
+* Data modeling
+* Data visualization
+* Dashboard design
+* Sharing insights
