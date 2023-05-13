@@ -17,4 +17,9 @@ Created an interactive power BI dashboard for Madhav Store (E-commerce), and ana
 # Dataset:-
 * Orders.csv
 * Order Details.csv
-* 
+* background_img.jpg
+
+## Steps I followed:-
+* Transformed data using Power Query(cleaning,formatting,performing aggregate functions,grouping etc.)
+* Performed the ETL operations.
+* Used DAX queries for calculating AOV(Average Order Value)
