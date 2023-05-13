@@ -35,4 +35,5 @@ Created an interactive power BI dashboard for Madhav Store (E-commerce), and ana
 * Harivansh, Madhav, Madan Mohan, Shiva, and Vishakha are some of the most frequent customers throughout the year, that have contributed to majority of the sales and profit generation. So, being such a loyal customer for your store, reward them with gift,discount-coupons,special offers etc. This will bring other customers attention towards your store.
 * Most preferred Mode Of Payment is COD(cash on delivery), so try to avail this service on every product.
 * Priter,bookcases,saree are some of the sub-categories under electronics,furniture,clothing catagory that has shown good amount of profit.
+* Quarter1 & Quarter2 gave us the best results.
 
