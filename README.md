@@ -28,5 +28,11 @@ Created an interactive power BI dashboard for Madhav Store (E-commerce), and ana
 * Visualized the entire data using donut-chart,stacked bar-chart, stacked column-chart, cards and presented it in the dashboard.
 
 
-#
+# Insights:-
+* Maharashtra, Madhya Pradesh, Delhi, Gujrat are top 4 states that promotes maximum sales and profit.
+* People tend to do more shopping from clothing category,followed by Electronics & Furniture category.Try to give exciting offers/discount/coupon to grab customers attention and that will improve the sales of this categories as well.
+* January,March,August,October,November has highest number of profit. So, bring more seasonal collection, give offers/coupon/discount as needed.
+* Harivansh, Madhav, Madan Mohan, Shiva, and Vishakha are some of the most frequent customers throughout the year, that have contributed to majority of the sales and profit generation. So, being such a loyal customer for your store, reward them with gift,discount-coupons,special offers etc. This will bring other customers attention towards your store.
+* Most preferred Mode Of Payment is COD(cash on delivery), so try to avail this service on every product.
+* Priter,bookcases,saree are some of the sub-categories under electronics,furniture,clothing catagory that has shown good amount of profit.
 
